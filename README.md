@@ -45,6 +45,6 @@ let tree = composeTree(list)
 ```
 console.log(tree) // [{"id":1,"pid":0,"name":"一级","children":[{"id":2,"pid":1,"name":"一级1","children":[{"id":4,"pid":2,"name":"一级1-1"}]},{"id":3,"pid":1,"name":"一级2"}]}]
 ```
-```
+
 ![转换tree结构的图片](https://img2018.cnblogs.com/blog/1170608/201907/1170608-20190705093403150-381463261.png)
-```
+
